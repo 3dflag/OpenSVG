@@ -15,9 +15,15 @@
     </radialGradient>
     <style>.AO{fill:#8f4620}.AP{fill:#ab6d29}.AQ{stroke-width:.35}.AR{fill:#202020}.AS{fill:#fff}.AT{stroke-width:.3}.AU{fill:#04534e}.AV{fill:#8cbebf}.AW{fill:#d2a567}.AX{fill:#dbad6c}.AY{fill:#a8ac71}.AZ{fill:#904720}.Aa{fill:#f8c83c}.Ab{stroke:#04534e}.Ac{stroke-width:.701}.Ad{fill:#0c8489}.Ae{fill:#202220}.Af{fill:#4b4139}.Ag{fill:#1e2121}.Ah{stroke:none}.Ai{fill:#78732e}.Aj{fill:#4d2a15}.Ak{fill:#fcca3e}.Al{stroke:#aa8c30}.Am{fill:#aa8c30}.An{stroke-linejoin:round}.Ao{stroke-linecap:round}.Ap{stroke-width:.409}.Aq{fill:#af7029}.Ar{fill:#816c2a}.As{fill:#fcca3d}.At{fill:#8b441f}.Au{fill:#b27129}</style>
   </defs>
-  <path d="M0 0h980v560H0z" fill="#ce1126"/>
-  <path d="M0 0h653.333v560H0z" class="AS"/>
-  <path d="M0 0h326.667v560H0z" fill="#006847"/>
+  <g>
+    <path d="M 0 0 L 980 0 L 980 560 L 0 560 L 0 0 Z" fill="#ce1126"/>
+  </g>
+  <g>
+    <path d="M 0 0 L 653.333 0 L 653.333 560 L 0 560 L 0 0 Z" class="AS"/>
+  </g>
+  <g>
+    <path d="M 0 0 L 326.667 0 L 326.667 560 L 0 560 L 0 0 Z" fill="#006847"/>
+  </g>
   <g id="logo">
     <g transform="matrix(1.16833, 0, 0, 1.16833, -0.699, 1.184)" class="Ak Al">
       <path d="M466.96 303.53l.293 5.878 2.22-1.467-1.702-4.839z" class="AQ"/>
